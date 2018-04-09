@@ -1,0 +1,28 @@
+2018-04-07 13:32:57,971 [ INFO][Controller] - Sorted list called
+2018-04-07 13:38:47,494 [ERROR][Controller] - Menu called
+2018-04-07 13:39:12,188 [ INFO][Controller] - Sorted list called
+2018-04-07 15:20:00,014 [ INFO][JsonParser] - Data loaded from json file
+2018-04-07 15:20:09,517 [ INFO][Controller] - Get patients with disease called
+2018-04-07 15:20:18,986 [ INFO][Controller] - Get patients with cards in range called
+2018-04-07 15:20:27,723 [ INFO][Controller] - Sort patients called
+2018-04-07 15:20:38,882 [ INFO][Controller] - Sort patients called
+2018-04-07 15:20:42,429 [ INFO][Controller] - Add new patient called
+2018-04-07 15:20:54,047 [ INFO][Controller] - New patient added
+2018-04-07 15:21:01,567 [ INFO][Controller] - Save patients called
+2018-04-07 15:21:20,365 [ INFO][Controller] - Read from file called
+2018-04-07 15:21:31,594 [ INFO][Controller] - Save to directory called
+2018-04-07 15:21:34,642 [ERROR][Controller] - Fail to save data to directory
+2018-04-07 15:21:38,309 [ERROR][Controller] - Menu called
+2018-04-07 15:25:49,547 [ INFO][JsonParser] - Data loaded from json file
+2018-04-07 15:25:53,084 [ INFO][Controller] - Get patients with disease called
+2018-04-07 15:26:03,702 [ INFO][Controller] - Sort patients called
+2018-04-07 15:26:08,107 [ INFO][Controller] - Read from file called
+2018-04-07 15:26:15,214 [ INFO][Controller] - Save patients called
+2018-04-07 15:26:31,172 [ INFO][Controller] - Save to directory called
+2018-04-07 15:26:33,359 [ERROR][Controller] - Fail to save data to directory
+2018-04-07 15:26:56,524 [ INFO][Controller] - Save patients called
+2018-04-07 15:26:56,529 [ INFO][Main] - App is launched
+2018-04-07 15:27:56,763 [ INFO][Main] - App is launched
+2018-04-07 15:27:56,787 [ INFO][JsonParser] - Data loaded from json file
+2018-04-07 15:27:59,992 [ INFO][Controller] - Get patients with disease called
+2018-04-07 15:28:04,082 [ INFO][Controller] - Save patients called

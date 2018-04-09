@@ -1,0 +1,75 @@
+{
+	"patients": [{
+			"firstName": "Иван",
+			"lastName": "Кукушкин",
+			"patronymic": "Васильевич",
+			"address": "Черкасы",
+			"phone": "252130",
+			"diagnosis": "Бронхит"
+		},
+		{
+			"firstName": "Юрий",
+			"lastName": "Попов",
+			"patronymic": "Петрович",
+			"address": "Сумы",
+			"phone": "444646",
+			"diagnosis": "Язва"
+		},
+		{
+			"firstName": "Василий",
+			"lastName": "Кулик",
+			"patronymic": "Анатольевич",
+			"address": "Харьков",
+			"phone": "1461616",
+			"diagnosis": "Бронхит"
+		},
+		{
+			"firstName": "Гнат",
+			"lastName": "Столяр",
+			"patronymic": "Юрьевич",
+			"address": "Полтава",
+			"phone": "41616",
+			"diagnosis": "Бронхит"
+		},
+		{
+			"firstName": "Сергей",
+			"lastName": "Кривун",
+			"patronymic": "Александрович",
+			"address": "Полтава",
+			"phone": "46648486",
+			"diagnosis": "Бронхит"
+		},
+		{
+			"firstName": "Артем",
+			"lastName": "Зинченко",
+			"patronymic": "Васильевич",
+			"address": "Черкасы",
+			"phone": "315684",
+			"diagnosis": "ОРВИ"
+		},
+		{
+			"firstName": "Антон",
+			"lastName": "Самойлов",
+			"patronymic": "Сергеевич",
+			"address": "Черкасы",
+			"phone": "4545",
+			"diagnosis": "ОРВИ"
+		},
+		{
+			"firstName": "Ирина",
+			"lastName": "Кузнец",
+			"patronymic": "Петровна",
+			"address": "Киев",
+			"phone": "166616",
+			"diagnosis": "Мигрень"
+		},
+		{
+			"firstName": "Леонид",
+			"lastName": "Карпов",
+			"patronymic": "Степанович",
+			"address": "Львов",
+			"phone": "5454545",
+			"diagnosis": "Гастрит"
+		}
+	]
+}
